@@ -1,1 +1,1 @@
-# Hand-written-number-prediction
+# Hand-written-digit-prediction
